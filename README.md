@@ -179,6 +179,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.couchbase.com/wp-content/uploads/2023/10/couchbase-favicon.svg" height="14"/> [Couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase)<sup><sup>⭐</sup></sup> - MCP server to interact with the data stored in Couchbase clusters including natural language querying. 
 - <img src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4" height="14"/> [Redis](https://github.com/redis/mcp-redis)<sup><sup>⭐</sup></sup> - A natural language interface designed for agentic applications to efficiently manage and search data in Redis.
 - <img src="https://framerusercontent.com/images/ijlYG00LOcMD6zR1XLMxHbAwZkM.png" height="14" /> [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - Create AI-powered video workflows including automatic editing, content moderation, voice cloning, highlight generation, and searchable video moments—all accessible via simple APIs and intuitive chat-based interfaces.
+- [kanchingyg/dbwatch](https://github.com/kanchingyg/dbwatch) - Git-style live row diff for SQLite, Cloudflare D1, and PostgreSQL with MCP tools.
 
 <br />
 
@@ -205,6 +206,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/letsencrypt/003A70" height="14"/> [sslmon](https://github.com/firesh/sslmon-mcp) - Domain/HTTPS/SSL domain registration information and SSL certificate monitoring capabilities. Query domain registration and expiration information, and SSL certificate information and validity status for any domain.
 - <img src="https://aiops.drdroid.io/favicon.ico" height="14"/> [Signoz](https://github.com/DrDroidLab/signoz-mcp-server) - Comprehensive integration with [Signoz APIs](https://signoz.io/docs/userguide/apis/) and [documentation](https://signoz.io/docs/) for monitoring, observability, and debugging tasks related to your Signoz instances.
 - <img src="https://avatars.githubusercontent.com/u/174736222?s=200&v=4" height="14"/> [VictoriaMetrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) - Comprehensive integration with [VictoriaMetrics APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances.
+- [kanchingyg/otel-pocket](https://github.com/kanchingyg/otel-pocket) - Local OTLP collector with TUI flamegraphs, N+1 SQL detection, and MCP diagnostics.
 
 <br />
 
@@ -287,6 +289,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [Kubernetes](https://github.com/weibaohui/k8m)<sup><sup>2</sup></sup> - Kubernetes  multi-cluster  management and operations, featuring a management ui, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="14"/> [MKP](https://github.com/StacklokLabs/mkp)<sup><sup>3</sup></sup> - Model Kontext Protocol Server for Kubernetes with native Go implementation, direct API integration, and comprehensive resource management
 - <img src="https://tinybird.co/favicon.ico" height="14"/> [Tinybird](https://github.com/tinybirdco/mcp-tinybird)<sup><sup>⭐</sup></sup> - Interact with a Tinybird Workspace from any MCP client.
+- [kanchingyg/flaredump](https://github.com/kanchingyg/flaredump) - Flight recorder for Cloudflare Workers: capture and offline-replay failed requests.
+- [kanchingyg/iam-tap](https://github.com/kanchingyg/iam-tap) - Live AWS SDK CSM interceptor that emits least-privilege IAM policies.
 
 <br />
 
@@ -402,6 +406,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/jira/0052CC" height="14"/> [tom28881/mcp-jira-server](https://github.com/tom28881/mcp-jira-server) - Comprehensive TypeScript MCP server for Jira with 20+ tools covering complete project management workflow: issue CRUD, sprint management, comments/history, attachments, batch operations. Features universal field auto-detection, full Czech/localization support, and date parsing with multiple formats. Created by [Tomáš Gregorovič](https://www.linkedin.com/in/tomáš-g-8423b61a2/).
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
+- [kanchingyg/mcp-crush](https://github.com/kanchingyg/mcp-crush) - MCP token auditor and stdio proxy that compresses tool schemas and prunes oversized JSON responses.
+- [kanchingyg/repomcp](https://github.com/kanchingyg/repomcp) - Turn any repo, CLI binary, OpenAPI spec, or SQLite DB into an MCP server.
 
 <br />
 
@@ -460,6 +466,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- [kanchingyg/env-phantom](https://github.com/kanchingyg/env-phantom) - Zero-knowledge .env proxy: phantom tokens in process.env, real secrets only at the TLS edge.
 
 <br />
 
